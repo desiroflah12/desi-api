@@ -1,7 +1,7 @@
 module.exports = {
     multipleStatements: true,
-    host: 'db4free.net',
-    user: 'hwangyeji',
-    password: 'Einshearth1111',
-    database: 'pkl_ay'
+    host: 'sql6.freemysqlhosting.net',
+    user: 'sql6503860',
+    password: 'xdzzQWr9pt',
+    database: 'sql6503860'
 };
